@@ -1,3 +1,0 @@
-[submodule "node-red-contrib-github"]
-	path = node-red-contrib-github
-	url = https://github.com/matteox/node-red-contrib-github.git
